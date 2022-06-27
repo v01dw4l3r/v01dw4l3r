@@ -12,7 +12,7 @@ Mi lenguaje favorito es **Python**, sin embargo, tambien manejo:
 - CSS
 - JS
 ```
-Pertenezco a la comunidad de Telegram <a href="t.me/TheRealHacking">TheRealHacking</a> en el cual compartimos contenido y resolvemos dudas para los que sean nuevos en un entorno saludable y divertido.
+Pertenezco a la comunidad de Telegram <a href="https://t.me/TheRealHacking">TheRealHacking</a> en el cual compartimos contenido y resolvemos dudas para los que sean nuevos en un entorno saludable y divertido.
 
 Mis metas son subir herramientas utiles para ustedes que les faciliten el trabajo de seguridad por lo que dejare una lista de las cosas que espero subir en los proximos meses:
 - [ ] Web Crawler
